@@ -1,7 +1,7 @@
 /* ===========================
    BASE API
 =========================== */
-const base_api = "http://localhost:5000";
+const base_api = "https://backend-drift-game.onrender.com";
 
 /* ===========================
    PARTICLES
